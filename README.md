@@ -1,22 +1,22 @@
 ## Installation
 ```
-gem install jekyll-environment-variables
+gem install jekyll-env
 ```
 or add it to your `Gemfile`:
 ```
-gem 'jekyll-environment-variables'
+gem 'jekyll-env'
 ```
 
 ## Usage
 
 Require the gem in `plugins/ext.rb`
 ```
-require 'jekyll/environment-variables'
+require 'jekyll-env'
 ```
 
 Or require the gems in the configuration
 ```
-gems: ['jekyll/environment-variables']
+gems: ['jekyll-env']
 ```
 
 ## Example
