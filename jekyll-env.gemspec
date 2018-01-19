@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-  s.name        = "jekyll-environment-variables"
+  s.name        = "jekyll-env"
   s.version     = "1.0.0"
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ['Atticus White']
-  s.email       = 'http://atticuswhite.com'
-  s.homepage    = 'http://github.com/ajwhite/jekyll-environment-variables'
+  s.authors     = ['Arkady Zalkowitsch']
+  s.email       = ''
+  s.homepage    = 'http://github.com/arkadyzalko/jekyll-env'
   s.summary     = 'Access environment variables from within your Jekyll liquid templates'
   s.licenses    = ['MIT']
   s.description = 'Access environment variables from within your Jekyll liquid templates'
